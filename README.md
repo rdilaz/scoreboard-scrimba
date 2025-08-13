@@ -1,11 +1,27 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Scoreboard App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+A digital scoreboard interface built with HTML, CSS, and JavaScript. Features a clean, retro pixel-art design with separate HOME and GUEST score tracking, increment buttons (+1, +2, +3), and a reset functionality.
+
+## Live Demo
+
+🔗 **[View Live Demo](https://scoreboard-scrimba-ryo.netlify.app/)**
+
+## Screenshot
+
+![Scoreboard App Screenshot](./scoreboard-screenshot.png)
+
+The app displays a digital scoreboard interface with a clean, pixel-art style against a dark blue background. It features separate HOME and GUEST sections, each with score displays and increment buttons (+1, +2, +3), plus a reset button at the bottom.
+
+## Features
+
+- **Dual Score Tracking**: Separate score displays for HOME and GUEST teams
+- **Flexible Scoring**: Three increment options (+1, +2, +3) for each team
+- **Reset Functionality**: One-click reset to start over
+- **Retro Design**: Pixel-art aesthetic with segmented digital number displays
+- **Responsive Layout**: Clean, functional interface optimized for score tracking
+
+---
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
