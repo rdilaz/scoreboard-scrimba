@@ -1,5 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Scoreboard App</title>
         <link rel="stylesheet" href="index.css">
         <script src="index.js"></script>
     </head>
@@ -10,16 +14,16 @@
                 <p class="score" id="home-score">0</p>
                 <!-- buttons -->
                 <div>
-                   <button id="plus-one-home" onclick="plusOne()"">+1</button>
-                   <button id="plus-one-home" onclick="plusTwo()">+2</button>
-                   <button id="plus-one-home" onclick="plusThree()">+3</button>
+                   <button id="plus-one-home" onclick="plusOne()">+1</button>
+                   <button id="plus-two-home" onclick="plusTwo()">+2</button>
+                   <button id="plus-three-home" onclick="plusThree()">+3</button>
                 </div>
             </div>
             <div id="guest-container">
                 <h3>GUEST</h3>
                 <p class="score" id="guest-score">0</p>
                 <div>
-                   <button onclick="plusOneGuest()"">+1</button>
+                   <button onclick="plusOneGuest()">+1</button>
                    <button onclick="plusTwoGuest()">+2</button>
                    <button onclick="plusThreeGuest()">+3</button>
                 </div>

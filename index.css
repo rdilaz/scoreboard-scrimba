@@ -2,10 +2,6 @@
     font-family: timerFont;
     src:  url("timerfont.ttf")
 }
-@font-face {
-    font-family: timerFont;
-    src:  url("timerfont.ttf")
-}
 
 body {
     margin: 0;
