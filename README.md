@@ -4,7 +4,7 @@ A digital scoreboard interface built with HTML, CSS, and JavaScript. Features a 
 
 ## Live Demo
 
-🔗 **[View Live Demo](https://scoreboard-scrimba-ryo.netlify.app/)**
+🔗 **[View Live Demo](https://ryo-scoreboard.netlify.app/)**
 
 ## Screenshot
 
